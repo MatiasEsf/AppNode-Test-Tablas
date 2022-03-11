@@ -1,6 +1,6 @@
 # AppNode-Test-Tablas
 
-Primera app de node a modo de prueba. 
+Mi primera app de NodeJS e node a modo de prueba. 
 
 ### Función:
 
@@ -14,3 +14,8 @@ Muestra las tablas de multiplicar del número asignado y las escribe en un archi
 -h --hasta ( bool | default: 10 ) Limite de la multiplicación, del 1 al 10 (por defecto)
 
 ```
+
+-----
+
+La verdad queria hacer este repositorio para volver a practicar con git, hace mil años no hacia un
+repositorio nuevo y tuve algunos inconvenientes por que no me acordaba como hacerlo de 0.
